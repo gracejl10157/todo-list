@@ -16,8 +16,8 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
+    "username": "gracejl10157@gmail.com",
+    "password": "Graceheroku086",
     "database": "grace_todos_production",
     "host": "127.0.0.1",
     "dialect": "mysql",
