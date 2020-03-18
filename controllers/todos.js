@@ -1,4 +1,4 @@
-import { Todo } from "../models";
+const { Todo } = require("../models");
 
 class TodosController {
   async fetch(req, res, next) {
